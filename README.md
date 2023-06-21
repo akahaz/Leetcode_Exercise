@@ -1,2 +1,2 @@
 # Leetcode_Exercise
-Leetcode exercise and coding comment
+Take record for everyday training.
